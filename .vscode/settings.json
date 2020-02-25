@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\R2D2\\Anaconda2\\python.exe",
+    "python.pythonPath": "G:\\Anaconda2\\python.exe",
     "python.linting.pylintEnabled": true,
     "python.linting.flake8Enabled": false,
     "python.linting.enabled": true
